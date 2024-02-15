@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshece&label=Profile%20views&color=0e75b6&style=flat" alt="riteshece" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riteshece" alt="riteshece" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/riteshece](https://github.com/riteshece)
 
 - 📫 How to reach me **riteshgupta.14august@gmail.com**
@@ -14,7 +12,6 @@
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ritesh-gupta-0167601b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ritesh-gupta-0167601b0/" height="30" width="40" /></a>
 <a href="https://instagram.com/riteshgupta.js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riteshgupta.js" height="30" width="40" /></a>
